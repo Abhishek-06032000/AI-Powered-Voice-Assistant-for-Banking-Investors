@@ -1,1 +1,1 @@
-# AI-Powered-Voice-Assistant-for-Banking-Investors
+# AI-Powered Voice Assistant for Banking Investors
